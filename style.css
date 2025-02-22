@@ -167,7 +167,7 @@ ul {
 /* CTA Section */
 .cta {
   background-color: #f9faf8;
-  padding: 100px 250px 60px 250px;
+  padding: 100px 250px 100px 250px;
 }
 
 #cta-container {
@@ -208,4 +208,9 @@ ul {
 /* Footer Section */
 .footer {
   background-color: #1f2937;
+  display: flex;
+  justify-content: center;
+  padding: 12px;
+  color: #f9faf8;
+  font-weight: 400;
 }
